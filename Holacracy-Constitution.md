@@ -1,9 +1,9 @@
-#**Holacracy Constitution - Development Version**
+# **Redding Web Developer Workers' Cooperative Holacracatic Constitution **
 
 
 ###PREAMBLE
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This **_“Constitution”_** defines rules and processes for the governance and operations of an organization, namely the Redding Web Developer Workers' Cooperative. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 ## Article I: Energizing Roles
 
@@ -14,6 +14,7 @@ The Organization’s Partners will typically perform work for the Organization b
 - **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are things the Role may exclusively control and regulate as its property, on behalf of the Organization.
 - **(c)** one or more **_“Accountabilities”_**, which are ongoing activities of the Organization that the Role will enact.
+- **(d)** one or more **_"Skill Associations"_**, which are areas of expertise associated with the role, which place expectations upon the partner filling the role, but not requirements.
 
 ### 1.2 Responsibilities of Role-Filling
 
@@ -65,7 +66,7 @@ A **_“Circle”_** is a Role that may further break itself down by defining it
 
 #### 2.1.1 Defining Roles & Policies
 
-Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution. 
+Each Circle will use the **_“Governance Process”_** described in Article III of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution.
 
 Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
 
@@ -105,7 +106,7 @@ In addition, the Lead Link may define a more general **_“Strategy”_** for th
 
 #### 2.2.3 Amending the Lead Link Role
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely. 
+A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely.
 
 However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
 
@@ -196,11 +197,11 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 2.6 Sub-Circles
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+A Circle may split its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
 
 #### 2.6.1 Modifying Sub-Circles
 
-A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle. 
+A Circle may modify the Purpose, Domain, or Accountabilities on a Sub-Circle.
 
 A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
 
@@ -210,7 +211,7 @@ Beyond these allowed changes, a Circle may not modify any Defined Roles or Polic
 
 #### 2.6.2 Removing Sub-Circles
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by conflating it from a Circle back into just a Role.
 
 #### 2.6.3 Lead Link to Sub-Circle
 
@@ -240,7 +241,7 @@ If the Linked Entity is a Circle or group, it may assign someone to fill the Cro
 
 If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy. 
+In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy.
 
 Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
 
@@ -342,7 +343,7 @@ When an Objection to a Proposal is raised, the following additional rules apply 
 
 The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member. 
+In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member.
 
 The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 

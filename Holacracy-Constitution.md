@@ -1,4 +1,4 @@
-# **Redding Web Developer Workers' Cooperative Holacracatic Constitution **
+# **Redding Web Developer Workers' Cooperative Holacratic Constitution**
 
 
 ###PREAMBLE
